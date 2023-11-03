@@ -1,0 +1,2 @@
+# movie-reccomendation-system
+Developed a Movie Recommendation System using Python and libraries like NumPy, Pandas, Matplotlib, and Seaborn. Implemented collaborative filtering techniques to analyze user preferences, calculate movie similarities, and provide personalized movie recommendations. Demonstrated skills in data processing, exploratory analysis, and data visualization. Enabled users to discover movies based on their preferences and similar user choices.
